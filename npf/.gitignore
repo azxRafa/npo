@@ -1,0 +1,6 @@
+.env
+.venv
+.venv1
+media
+!media/.gitkeep
+/model/model.pickle
